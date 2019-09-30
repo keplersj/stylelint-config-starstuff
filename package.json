@@ -1,0 +1,39 @@
+{
+  "name": "stylelint-config-starstuff",
+  "version": "0.0.0-development",
+  "description": "Opininated, but simple, shareable Stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keplersj/stylelint-config-starstuff.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "prettier",
+    "css"
+  ],
+  "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keplersj/stylelint-config-starstuff/issues"
+  },
+  "homepage": "https://github.com/keplersj/stylelint-config-starstuff#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-runner-prettier": "^0.3.1",
+    "prettier": "^1.18.2",
+    "stylelint": "^11.0.0"
+  },
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-prettier": "^1.1.1"
+  },
+  "peerDependencies": {
+    "stylelint": ">=10.1.0"
+  }
+}
