@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/keplersj/stylelint-config-starstuff#readme",
   "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-starstuff": "^1.4.5",
     "jest": "^25.1.0",
+    "jest-runner-eslint": "^0.7.6",
     "jest-runner-prettier": "^0.3.1",
     "prettier": "^1.18.2",
     "semantic-release": "^17.0.1",
@@ -37,5 +40,11 @@
   },
   "peerDependencies": {
     "stylelint": ">=10.1.0"
+  },
+  "eslintConfig": {
+    "extends": "starstuff/auto",
+    "env": {
+      "node": true
+    }
   }
 }
