@@ -6,5 +6,9 @@ module.exports = {
     "stylelint-a11y/recommended",
 
     "stylelint-prettier/recommended"
-  ]
+  ],
+  plugins: ["stylelint-high-performance-animation"],
+  rules: {
+    "plugin/no-low-performance-animation-properties": true
+  }
 };
