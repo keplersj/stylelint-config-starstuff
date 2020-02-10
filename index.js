@@ -11,7 +11,10 @@ module.exports = {
   plugins: ["stylelint-high-performance-animation"],
   rules: {
     "order/properties-order": [[], { severity: "warning" }],
-    "plugin/no-low-performance-animation-properties": true,
+    "plugin/no-low-performance-animation-properties": [
+      true,
+      { ignore: "paint-properties" }
+    ],
     "plugin/rational-order": [
       true,
       {
