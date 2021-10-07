@@ -4,7 +4,8 @@
   "description": "Opininated, but simple, shareable Stylelint config",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "format": "eslint --fix . && prettier -w ."
   },
   "repository": {
     "type": "git",

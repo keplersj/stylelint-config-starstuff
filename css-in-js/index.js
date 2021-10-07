@@ -7,9 +7,9 @@ module.exports = {
         ignore: [
           "after-comment",
           "after-declaration",
-          "inside-single-line-block"
-        ]
-      }
-    ]
-  }
+          "inside-single-line-block",
+        ],
+      },
+    ],
+  },
 };
