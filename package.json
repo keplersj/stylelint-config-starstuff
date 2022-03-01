@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/keplersj/stylelint-config-starstuff#readme",
   "devDependencies": {
-    "eslint": "7.32.0",
+    "eslint": "8.10.0",
     "eslint-config-starstuff": "1.5.8",
     "jest": "27.5.1",
     "jest-runner-eslint": "1.0.0",
