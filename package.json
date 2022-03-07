@@ -28,17 +28,16 @@
   },
   "homepage": "https://github.com/keplersj/stylelint-config-starstuff#readme",
   "devDependencies": {
-    "eslint": "7.32.0",
-    "eslint-config-starstuff": "1.5.8",
-    "jest": "27.5.1",
-    "jest-runner-eslint": "1.0.0",
-    "jest-runner-prettier": "1.0.0",
-    "prettier": "2.5.1",
-    "semantic-release": "19.0.2",
-    "stylelint": "13.13.1"
+    "eslint": "^8.10.0",
+    "eslint-config-starstuff": "^1.5.10",
+    "jest": "^27.5.1",
+    "jest-runner-eslint": "^1.0.0",
+    "jest-runner-prettier": "^1.0.0",
+    "prettier": "^2.5.1",
+    "stylelint": "^14.5.3"
   },
   "dependencies": {
-    "stylelint-a11y": "^1.2.2",
+    "@ronilaukkarinen/stylelint-a11y": "^1.2.4",
     "stylelint-config-prettier": "^9.0.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-recommended": "^5.0.0",

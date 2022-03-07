@@ -3,7 +3,7 @@ module.exports = {
     "stylelint-config-recommended",
     "stylelint-config-standard",
 
-    "stylelint-a11y/recommended",
+    "@ronilaukkarinen/stylelint-a11y/recommended",
     "stylelint-config-rational-order",
 
     "stylelint-prettier/recommended",
