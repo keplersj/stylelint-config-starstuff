@@ -1,5 +1,11 @@
 # stylelint-config-starstuff
 
+[![npm](https://img.shields.io/npm/v/stylelint-config-starstuff)](https://www.npmjs.com/package/stylelint-config-starstuff)
+[![npm](https://img.shields.io/npm/dw/stylelint-config-starstuff)](https://www.npmjs.com/package/stylelint-config-starstuff)
+[![Codecov](https://img.shields.io/codecov/c/github/keplersj/stylelint-config-starstuff)](https://app.codecov.io/gh/keplersj/stylelint-config-starstuff)
+[![Bundle Size](https://img.shields.io/bundlephobia/min/stylelint-config-starstuff)](https://bundlephobia.com/package/stylelint-config-starstuff)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://www.conventionalcommits.org/)
+
 Opininated, but simple, shareable Stylelint config
 
 ## Philosophy
