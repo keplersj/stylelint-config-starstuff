@@ -38,4 +38,4 @@ This config exports a varient specialized for projects using a CSS-in-JS library
 
 ## License
 
-Copyright Kepler Sticka-Jones 2019. Licensed ISC
+Copyright [Kepler Sticka-Jones](https://keplersj.com) 2019-2022. Licensed ISC
