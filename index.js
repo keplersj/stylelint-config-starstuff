@@ -4,7 +4,7 @@ module.exports = {
     "stylelint-config-standard",
 
     "@ronilaukkarinen/stylelint-a11y/recommended",
-    "stylelint-config-rational-order",
+    "stylelint-config-idiomatic-order",
 
     "stylelint-prettier/recommended",
   ],
@@ -14,13 +14,6 @@ module.exports = {
     "plugin/no-low-performance-animation-properties": [
       true,
       { ignore: "paint-properties" },
-    ],
-    "plugin/rational-order": [
-      true,
-      {
-        "empty-line-between-groups": true,
-        severity: "warning",
-      },
     ],
   },
 };
