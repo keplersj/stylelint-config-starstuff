@@ -44,7 +44,7 @@
     "stylelint-config-standard": "^22.0.0",
     "stylelint-high-performance-animation": "^1.4.0",
     "stylelint-order": "^4.1.0",
-    "stylelint-prettier": "^1.1.1"
+    "stylelint-prettier": "^2.0.0"
   },
   "peerDependencies": {
     "stylelint": ">=10.1.0"
